@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreyMerk
-- 👀 I’m interested in C# программировавние и CDO
+- 👀 I’m interested in C# программировавние, JAVA и CDO
 - 🌱 I’m currently learning CDO and C# coding
 - 💞️ I’m looking to collaborate on Oil industry
 - 📫 How to reach me gremlins11ab@gmail.com
